@@ -1,12 +1,12 @@
-<link rel="shortcut icon" type="image/x-icon" href="/images/fancy-logo.png">
-
+# FANCY-CLI
 <img alt="fancy logo" src="images/fancy-logo.png" width=64>
 
-# FANCY-CLI: Folder Art with Neat Colors for You
+<link rel="shortcut icon" type="image/x-icon" href="images/fancy-logo.png">
 
 FANCY is a command-line interface (CLI) tool written in Python that creates fancy-looking folder icons like
 
-<img alt="fancy logo" src="images/example.png" width=90>
+<img alt="fancy example" src="images/example.png" width=90>
+<span style="font-size: 0.3rem">Python icon by (Babolix)[https://macosicons.com/#/u/babolix] on [MacOSIcons](https://macosicons.com/#/). Original Python logo made by <https://www.python.org/>.</span>
 
 with ease!
 
